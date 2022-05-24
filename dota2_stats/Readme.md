@@ -5,7 +5,7 @@ I came across this idea when I was playing Dota 2 with a bunch of friends (obvio
 We could peek other people's winrate , profile , match-making-rank (MMR) and other info
 
 ## Modules
-This project mostly implemented python *tkinter module* for making GUI and *requests module* to request data from [https://docs.opendota.com/](OpenDota Api)
+This project mostly implemented python *tkinter module* for making GUI and *requests module* to request data from [https://docs.opendota.com/](Open Dota API)
 
 ## Progress
 Still working on the user interface, more functions will be added frequently, this is a student's project so please forgive me for the rough UI.
