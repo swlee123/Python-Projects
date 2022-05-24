@@ -1,5 +1,5 @@
 # Stock News Reminder 
-Lately the stock market is facing huge fear due to the hike of interest of by US,Federal Reserve.
+Lately the stock market is facing huge fear due to the hike of interest of by US Federal Reserve.
 I don't trade stocks (still young,dumb and broke) but I am a bit interested about it.
 
 ## Usage
