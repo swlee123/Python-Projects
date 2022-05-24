@@ -1,5 +1,6 @@
 # Dota 2 In-Game Stats Provider
-![](C:\python_learning\Python-Learning-Udemy\daily_codes\python_project\Python-Projects\dota2_stats\bg_img.jpg)
+![Dota 2](C:\python_learning\Python-Learning-Udemy\daily_codes\python_project\Python-Projects\dota2_stats\bg_img.jpg)
+
 ## Idea
 I came across this idea when I was playing Dota 2 with a bunch of friends (obviously noobs).
 We could peek other people's winrate , profile , match-making-rank (MMR) and other info
