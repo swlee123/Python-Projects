@@ -1,0 +1,257 @@
+loccountrycode,count,avg,common
+AN,1,4085,AN
+SG,13174,3539,Singapore
+VN,15262,3401,Vietnam
+SC,156,3396,Seychelles
+DK,4043,3352,Denmark
+WF,254,3350,Wallis and Futuna
+BN,249,3348,Brunei
+YU,207,3345,YU
+KR,7755,3318,South Korea
+HR,1928,3317,Croatia
+BG,2550,3314,Bulgaria
+SE,15467,3298,Sweden
+VA,1973,3297,Vatican City
+IS,1999,3295,Iceland
+GR,3917,3289,Greece
+SL,182,3275,Sierra Leone
+JO,2051,3268,Jordan
+FI,5763,3266,Finland
+BM,377,3265,Bermuda
+MH,178,3261,Marshall Islands
+TF,62,3260,French Southern and Antarctic Lands
+NA,137,3257,Namibia
+VC,235,3257,Saint Vincent and the Grenadines
+SN,92,3254,Senegal
+HM,958,3253,Heard Island and McDonald Islands
+KI,102,3250,Kiribati
+CX,1263,3249,Christmas Island
+GS,593,3249,South Georgia
+SS,55,3242,South Sudan
+SH,250,3242,"Saint Helena, Ascension and Tristan da Cunha"
+PM,115,3241,Saint Pierre and Miquelon
+GU,154,3241,Guam
+CV,167,3239,Cape Verde
+AT,2668,3238,Austria
+NR,139,3236,Nauru
+MK,1542,3232,North Macedonia
+BQ,209,3231,Caribbean Netherlands
+MV,525,3226,Maldives
+AU,17745,3226,Australia
+CN,202960,3216,China
+CF,207,3210,Central African Republic
+FK,155,3208,Falkland Islands
+BF,187,3206,Burkina Faso
+YT,106,3205,Mayotte
+FO,346,3200,Faroe Islands
+TC,91,3196,Turks and Caicos Islands
+CW,121,3193,Curaçao
+KH,1149,3191,Cambodia
+PF,74,3187,French Polynesia
+RS,4448,3184,Serbia
+TK,133,3183,Tokelau
+SA,935,3183,Saudi Arabia
+CA,35759,3182,Canada
+NZ,3828,3181,New Zealand
+YE,421,3180,Yemen
+GI,165,3180,Gibraltar
+CI,283,3177,Ivory Coast
+MO,363,3172,Macau
+SJ,120,3172,Svalbard and Jan Mayen
+TH,10816,3172,Thailand
+BL,130,3171,Saint Barthélemy
+TW,1574,3170,Taiwan
+LB,1018,3170,Lebanon
+ZW,3584,3170,Zimbabwe
+MZ,243,3168,Mozambique
+SX,78,3167,Sint Maarten
+BB,307,3166,Barbados
+SR,114,3165,Suriname
+GL,640,3159,Greenland
+LI,229,3158,Liechtenstein
+BW,205,3157,Botswana
+NL,4618,3157,Netherlands
+TP,4,3157,TP
+MR,60,3152,Mauritania
+FM,208,3151,Micronesia
+IM,664,3149,Isle of Man
+NU,189,3147,Niue
+KP,1655,3147,North Korea
+CH,3435,3147,Switzerland
+CY,460,3143,Cyprus
+MY,35959,3142,Malaysia
+ME,380,3141,Montenegro
+SO,514,3134,Somalia
+LU,805,3133,Luxembourg
+FX,62,3133,FX
+LT,1628,3132,Lithuania
+VI,1623,3131,United States Virgin Islands
+ER,72,3131,Eritrea
+LA,529,3131,Laos
+NO,6748,3131,Norway
+HK,3050,3127,Hong Kong
+GP,131,3126,Guadeloupe
+IO,250,3124,British Indian Ocean Territory
+VG,447,3122,British Virgin Islands
+BJ,110,3121,Benin
+KW,251,3118,Kuwait
+SB,183,3113,Solomon Islands
+LC,339,3111,Saint Lucia
+CM,237,3108,Cameroon
+DE,24693,3105,Germany
+GW,91,3105,Guinea-Bissau
+TV,159,3105,Tuvalu
+PS,698,3104,Palestine
+MF,100,3104,Saint Martin
+AG,324,3101,Antigua and Barbuda
+HU,1545,3101,Hungary
+BA,1064,3098,Bosnia and Herzegovina
+AQ,2405,3096,Antarctica
+GH,264,3089,Ghana
+MT,331,3084,Malta
+TZ,135,3084,Tanzania
+EE,2722,3082,Estonia
+IE,1923,3082,Ireland
+PG,341,3081,Papua New Guinea
+BH,178,3080,Bahrain
+QA,669,3080,Qatar
+BV,107,3080,Bouvet Island
+JM,1618,3077,Jamaica
+TL,134,3075,Timor-Leste
+HT,410,3072,Haiti
+MU,159,3072,Mauritius
+XK,361,3072,Kosovo
+SK,2372,3071,Slovakia
+BS,546,3070,Bahamas
+FJ,1197,3068,Fiji
+SM,426,3064,San Marino
+CZ,5225,3064,Czechia
+KE,261,3064,Kenya
+TR,9280,3063,Turkey
+MS,90,3062,Montserrat
+RE,177,3058,Réunion
+KN,164,3058,Saint Kitts and Nevis
+VU,131,3057,Vanuatu
+UM,1845,3056,United States Minor Outlying Islands
+US,97206,3056,United States
+KY,173,3054,Cayman Islands
+FR,9940,3051,France
+BR,31208,3045,Brazil
+IL,3047,3045,Israel
+BI,137,3044,Burundi
+GY,178,3043,Guyana
+BE,1903,3043,Belgium
+NC,153,3043,New Caledonia
+GF,76,3043,French Guiana
+AE,2514,3042,United Arab Emirates
+AL,2009,3042,Albania
+ET,302,3041,Ethiopia
+GA,292,3037,Gabon
+EH,332,3033,Western Sahara
+AI,250,3032,Anguilla
+GB,24901,3032,United Kingdom
+UZ,1981,3029,Uzbekistan
+CL,3449,3028,Chile
+TD,442,3026,Chad
+NF,760,3025,Norfolk Island
+JP,34809,3024,Japan
+GM,95,3024,Gambia
+OM,640,3024,Oman
+CG,743,3021,Republic of the Congo
+SI,471,3020,Slovenia
+AF,4884,3020,Afghanistan
+SD,167,3018,Sudan
+AD,522,3018,Andorra
+ES,4941,3016,Spain
+TO,147,3012,Tonga
+RO,7369,3011,Romania
+CC,1540,3009,Cocos (Keeling) Islands
+MG,874,3007,Madagascar
+TG,282,3006,Togo
+UG,1994,3006,Uganda
+SY,736,3005,Syria
+AO,547,3003,Angola
+UY,776,3001,Uruguay
+PH,64083,3000,Philippines
+AX,712,3000,Åland Islands
+WS,131,3000,Samoa
+NG,752,2998,Nigeria
+LY,159,2998,Libya
+BZ,192,2998,Belize
+IQ,1432,2989,Iraq
+CD,375,2988,DR Congo
+AW,381,2982,Aruba
+BT,311,2980,Bhutan
+PT,1880,2979,Portugal
+MC,1189,2979,Monaco
+JE,147,2978,Jersey
+PR,560,2977,Puerto Rico
+IT,6973,2974,Italy
+CR,1037,2973,Costa Rica
+EG,1420,2973,Egypt
+DJ,303,2971,Djibouti
+KG,2471,2966,Kyrgyzstan
+CK,469,2966,Cook Islands
+ZA,1712,2964,South Africa
+MM,9256,2962,Myanmar
+MN,9206,2961,Mongolia
+RW,154,2961,Rwanda
+DM,268,2959,Dominica
+GQ,73,2958,Equatorial Guinea
+MP,398,2957,Northern Mariana Islands
+TT,350,2955,Trinidad and Tobago
+PL,8335,2946,Poland
+AR,9126,2944,Argentina
+LS,61,2943,Lesotho
+ML,149,2943,Mali
+NE,3232,2942,Niger
+SV,384,2940,El Salvador
+GN,111,2938,Guinea
+SZ,387,2937,Eswatini
+CU,1593,2937,Cuba
+MQ,83,2933,Martinique
+BY,23733,2926,Belarus
+ST,90,2926,São Tomé and Príncipe
+GD,116,2925,Grenada
+IR,2808,2923,Iran
+MA,507,2918,Morocco
+TM,433,2916,Turkmenistan
+DO,459,2913,Dominican Republic
+LV,2812,2912,Latvia
+AS,1201,2907,American Samoa
+ZM,632,2907,Zambia
+HN,553,2890,Honduras
+KZ,18749,2887,Kazakhstan
+KM,59,2881,Comoros
+AZ,1263,2875,Azerbaijan
+LR,127,2875,Liberia
+DZ,1045,2863,Algeria
+PY,593,2856,Paraguay
+BO,3398,2852,Bolivia
+TN,160,2849,Tunisia
+PN,117,2849,Pitcairn Islands
+NI,218,2844,Nicaragua
+ID,78132,2842,Indonesia
+PA,694,2841,Panama
+RU,244696,2837,Russia
+TJ,636,2837,Tajikistan
+AM,1406,2835,Armenia
+GE,2541,2834,Georgia
+PE,36889,2832,Peru
+MW,80,2822,Malawi
+GT,375,2814,Guatemala
+UA,70262,2808,Ukraine
+CO,2496,2795,Colombia
+PK,5134,2794,Pakistan
+MX,3345,2772,Mexico
+LK,1036,2772,Sri Lanka
+MD,2116,2751,Moldova
+NP,1527,2743,Nepal
+GG,103,2741,Guernsey
+PW,229,2739,Palau
+ZR,5,2659,ZR
+BD,1449,2587,Bangladesh
+IN,13140,2582,India
+VE,2648,2519,Venezuela
+EC,3079,2496,Ecuador
+0,1,2132,0
