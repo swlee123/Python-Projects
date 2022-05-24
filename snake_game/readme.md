@@ -1,2 +1,2 @@
 # Classic Snake Game
-nothing to say, just a classic snake game
+nothing to say, just a classic snake game XD
