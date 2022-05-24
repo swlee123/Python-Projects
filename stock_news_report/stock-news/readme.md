@@ -4,7 +4,7 @@ I don't trade stocks (still young,dumb and broke) but I am a bit interested abou
 
 ## Usage
 The code used news API and stock API to retrieve information.
-If the stock price increased or decreased by 5% compare to the previous day,it will send a SMS using Twilio into my phone with 3 trending articles about the stocks.
+If the stock price increased or decreased by 5%(at least) compare to the previous day,it will send a SMS using Twilio into my phone with 3 trending articles about the stocks.
 In my code, I chose TESLA stock since I was quite interested and impressed by TESLA's edge-cutting technology.
 
 ## Automation
